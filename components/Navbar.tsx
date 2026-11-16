@@ -11,7 +11,7 @@ const Navbar = () => {
             alt="CallHub Logo"
             width={98}
             height={32}
-            className="h-6 sm:h-7 w-auto object-contain shrink-0"
+            className="h-6 sm:h-7 w-auto object-contain shrink-0 brightness-0"
             priority
           />
           <span className="text-gray-400 font-light text-base sm:text-xl">/</span>
