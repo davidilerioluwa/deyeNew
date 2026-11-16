@@ -5,16 +5,17 @@ const Navbar = () => {
   return (
     <nav className="w-full bg-gray-100 border-b border-gray-300 text-[#015cbb] fixed top-0 left-0 px-4 sm:px-8 lg:px-24 py-2 sm:py-2.5 z-50">
       <div className="flex justify-between items-center">
-        <div className="flex items-center gap-2 sm:gap-2.5">
+        <div className="flex items-center gap-2.5 sm:gap-3">
           <Image
-            src="/callhub-full-logo.png"
+            src="/callhub-black.png"
             alt="CallHub Logo"
-            width={96}
-            height={31}
-            className="h-6 sm:h-7 w-auto object-contain shrink-0"
+            width={110}
+            height={36}
+            className="h-7 sm:h-9 w-auto object-contain shrink-0"
             priority
+            unoptimized
           />
-          <span className="text-gray-400 font-light text-base sm:text-xl">/</span>
+          <span className="text-gray-400 font-light text-lg sm:text-2xl">/</span>
           <span className="font-bold text-lg sm:text-2xl text-[#015cbb] tracking-tight uppercase leading-none">
             deye
           </span>
