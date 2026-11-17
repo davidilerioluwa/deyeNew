@@ -49,7 +49,7 @@ const RequestAQuote = () => {
         budget: "Standard",
       });
     } else {
-      toast.error(response?.message || "Failed to submit request. Please email sales@callhub.com.ng directly.");
+      toast.error(response?.message || "Failed to submit request. Please email deye@callhub.com.ng directly.");
       setLoading(false);
     }
   };
@@ -90,11 +90,11 @@ const RequestAQuote = () => {
               </div>
             </div>
             <a
-              href="mailto:sales@callhub.com.ng"
+              href="mailto:deye@callhub.com.ng"
               className="text-base sm:text-lg font-bold hover:text-blue-950 self-end flex items-center gap-2 group transition-colors mt-4"
             >
               <span className="group-hover:underline underline-offset-4">
-                sales@callhub.com.ng
+                deye@callhub.com.ng
               </span>
               <Send className="w-4 h-4 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
             </a>

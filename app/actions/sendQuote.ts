@@ -105,7 +105,7 @@ Supplied & Serviced by CallHub Nigeria.
 
           <p style="font-size: 11px; color: #94a3b8; margin-top: 20px; text-align: center;">
             CallHub Nigeria &bull; Independent Supplier &amp; Installer of Genuine Deye Clean Energy Systems.<br />
-            Hotlines: 09134280508, 09138975362 &bull; sales@callhub.com.ng
+            Hotlines: 09134280508, 09138975362 &bull; deye@callhub.com.ng
           </p>
         </div>
       `,
@@ -119,7 +119,7 @@ Supplied & Serviced by CallHub Nigeria.
     console.error("Failed to dispatch quote email via Nodemailer:", err);
     return {
       success: false,
-      message: "Could not send automated email at this moment. Please call our desk directly at 09134280508 or email sales@callhub.com.ng.",
+      message: "Could not send automated email at this moment. Please call our desk directly at 09134280508 or email deye@callhub.com.ng.",
     };
   }
 }
