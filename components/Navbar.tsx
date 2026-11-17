@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Navbar = () => {
   return (
-    <nav className="w-full bg-gray-100 border-b border-gray-300 text-[#015cbb] fixed top-0 left-0 px-4 sm:px-8 lg:px-24 py-2 sm:py-2.5 z-50">
+    <nav className="w-full bg-gray-100 border-b border-gray-300 text-[#015cbb] fixed top-0 left-0 px-4 sm:px-8 lg:px-24 py-3 sm:py-3.5 z-50">
       <div className="flex justify-between items-center">
         <div className="flex items-center gap-2.5 sm:gap-3">
           <Image
@@ -28,10 +28,6 @@ const Navbar = () => {
             Contact Us
           </span>
         </a>
-      </div>
-
-      <div className="text-[10px] sm:text-xs text-gray-500 font-medium leading-tight mt-1">
-        Independent Deye Equipment Supplier &amp; Installer
       </div>
     </nav>
   );

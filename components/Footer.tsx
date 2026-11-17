@@ -58,7 +58,7 @@ export default function Footer() {
         {/* Legal Disclaimer Line avoiding copyright & trademark infringement */}
         <div className="mt-12 pt-8 border-t border-white/20 text-xs text-blue-200/80 leading-relaxed font-sans">
           <p>
-            <strong>Trademark &amp; Regulatory Notice:</strong> CallHub Nigeria (CallHub Technologies Ltd) is an independent equipment stockist, reseller, and installation contractor for genuine clean energy systems. CallHub is not an official direct corporate partner, subsidiary, or exclusive franchisee of Ningbo Deye Inverter Technology Co., Ltd. 
+            <strong>Trademark &amp; Regulatory Notice:</strong> CallHub Nigeria (CallHub Technologies Ltd) is an independent Deye equipment supplier, stockist, and installation contractor for genuine clean energy systems. CallHub operates as an independent company and is not an official direct corporate partner, subsidiary, or exclusive franchisee of Ningbo Deye Inverter Technology Co., Ltd. 
             <strong> Deye®</strong> and associated product logos are registered trademarks of their respective owner.
           </p>
         </div>
