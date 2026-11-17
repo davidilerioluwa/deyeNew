@@ -24,13 +24,19 @@ export default function Footer() {
             {/* Email Section */}
             <div className="flex flex-col gap-2 border-b border-white/20 pb-4">
               <span className="text-white lowercase font-normal">
-                Email Address
+                Email Addresses
               </span>
               <a
                 href="mailto:sales@callhub.com.ng"
                 className="hover:text-white/80 text-lg transition-colors duration-200 normal-case font-semibold"
               >
                 sales@callhub.com.ng
+              </a>
+              <a
+                href="mailto:deye@callhub.com.ng"
+                className="hover:text-white/80 text-lg transition-colors duration-200 normal-case font-semibold"
+              >
+                deye@callhub.com.ng
               </a>
             </div>
 
