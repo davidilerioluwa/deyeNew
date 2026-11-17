@@ -56,7 +56,7 @@ const SolarBattery = () => {
           <div className="flex flex-col gap-4 items-center w-full">
             <div className="relative bg-white rounded-lg h-40 xl:h-48 w-full flex flex-col justify-center items-center">
               <Image
-                src="/utilityScaleEss.jpeg"
+                src="/utilityScaleStorage.jpeg"
                 alt="Utility Scale Storage"
                 fill
                 sizes="(max-width: 768px) 50vw, 33vw"
