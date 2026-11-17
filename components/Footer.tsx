@@ -15,7 +15,7 @@ export default function Footer() {
               Let&apos;s power the future together.
             </h2>
             <p className="text-blue-100 text-sm max-w-md">
-              Genuine Deye solar inverters, lithium batteries, and solar climate hardware supplied and integrated across Nigeria by CallHub.
+              Genuine Deye solar inverters, lithium batteries, and clean energy hardware supplied and integrated across Nigeria by CallHub, an independent equipment supplier &amp; installer.
             </p>
           </div>
 
