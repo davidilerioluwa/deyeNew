@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center">
         <div className="flex items-center gap-2.5 sm:gap-3">
           <Image
-            src="/callhub-black.png"
+            src="/callhub-blue.png"
             alt="CallHub Logo"
             width={110}
             height={36}
