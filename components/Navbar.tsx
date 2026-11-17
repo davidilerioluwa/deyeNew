@@ -15,7 +15,9 @@ const Navbar = () => {
             priority
             unoptimized
           />
-          <span className="text-gray-400 font-light text-lg sm:text-2xl">/</span>
+          <span className="text-gray-300 font-light text-lg sm:text-2xl select-none" aria-hidden="true">
+            |
+          </span>
           <span className="font-bold text-lg sm:text-2xl text-[#015cbb] tracking-tight uppercase leading-none">
             deye
           </span>
