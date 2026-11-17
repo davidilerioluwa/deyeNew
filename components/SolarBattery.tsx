@@ -37,6 +37,7 @@ const SolarBattery = () => {
                 fill
                 sizes="(max-width: 768px) 50vw, 33vw"
                 className="object-contain"
+                unoptimized
               />
             </div>
             <span className="text-sm font-semibold">Residential</span>
@@ -49,6 +50,7 @@ const SolarBattery = () => {
                 fill
                 sizes="(max-width: 768px) 50vw, 33vw"
                 className="object-contain"
+                unoptimized
               />
             </div>
             <span className="text-sm font-semibold">C&I ESS</span>

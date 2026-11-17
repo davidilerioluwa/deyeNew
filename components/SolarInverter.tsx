@@ -18,6 +18,7 @@ const SolarInverter = () => {
                 fill
                 sizes="(max-width: 768px) 50vw, 33vw"
                 className="object-contain"
+                unoptimized
               />
             </div>
             <span className="text-sm text-center font-semibold">
@@ -32,6 +33,7 @@ const SolarInverter = () => {
                 fill
                 sizes="(max-width: 768px) 50vw, 33vw"
                 className="object-contain"
+                unoptimized
               />
             </div>
             <span className="text-sm text-center font-semibold">
@@ -46,6 +48,7 @@ const SolarInverter = () => {
                 fill
                 sizes="(max-width: 768px) 50vw, 33vw"
                 className="object-contain"
+                unoptimized
               />
             </div>
             <span className="text-sm text-center font-semibold">Hybrid Inverter</span>
